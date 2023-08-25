@@ -1,0 +1,139 @@
+Q1-What is Statistics?
+Answer-- Statistics is the study of the collection, analysis, inerpretation, presentation and organization of data. In other words, it is a mathematical discipline to collect, summarize data. Also, we can say that statistics is a branch of applied mathematics.
+
+Q2-Define the diferent types of statistics and give an example of when each type might be used.
+Answer-- Types of Statistics:
+1) Descriptive Statistics- It is  way  to organize, represent and describe a collection of data using tables, graphs and summary measures. It includes topics such as- measures of central tendency e.g mean, median, mode; measures of dispersion e.g variance, standard deviation; different types of distribution of data e.g histogram, pdf, pmf.
+Example: The collection of people in a city using the internet or using television.
+
+2) Inferential Statistics- It is a method that allows us to use information collected from a sample to make decisions, predictions or inferences from a population. It includes topics such as- Z test, T test etc.
+Example: Deriving estimates from hypothetical research.
+
+Q3-What are different types of data and how do they differ from each other? Provide an example of each type of data.
+Answer-- Types of data:
+1) Quantitative- It includes discrete and continuous data types.
+2) Qualitative- It includes nominal and ordinal data types.
+
+difference between quantitative and qualitative-
+
+                       Quantitative                               |                         Qualitative
+                                                                  |
+1) Quantitative data can be expressed as a number or can be       | 1) Qualitative data cannot be expressed as number or cannot be 
+ quantified.                                                      |    measured.
+                                                                  |
+2) It can be measured by numerical variables.                     | 2) It consists of words, pictures, symbols not numbers.
+                                                                  |
+3) E.g scores on exam 85,90,75 etc; weight.                       | 3) E.g colors, names of people.
+                                                                  |
+                                                                  
+                                                                  
+                                                                  |
+                      Discrete                                    |                        Continuous
+                                                                  |
+1) It is a count that involves only integers.                     | 1) It can be measured on a scale or continuum and can have any 
+                                                                  |    numeric value.
+2) The discrete values cannot be subdivided into parts.           |
+                                                                  | 2) Continuous data could be meaningfully divided into finer levels.
+3) E.g Number of students in a class, number of workers in a      | 
+   company.                                                       | 3) E.g height of children, speed of cars.
+                                                                  |
+                                                                  
+                                                                  
+                      Nominal                                     |                        Ordinal
+                                                                  |
+1) It is used for labeling variables without any quantitative     | 1) It is a data which is placed into some kind of order by their
+   value.                                                         |    position on a scale.
+                                                                  |
+2) E.g gender, marital status.                                    | 2) E.g customer feedback, letter grades A,B,C etc.
+                                                                  |
+                                                                  |
+                                                                  
+                                                                  
+Q4- Categorise datasets with respect to quantitative and qualitative data types:
+Answer-- 1) Qualitative
+         2) Qualitative
+         3) Quantitative
+         4) Quantitative.
+                                                                  
+Q5- Explain the concept of levels of measurement and give an example of a variable for each level.
+Answer-- Nominal: It categorizes variables according to qualitatuve labels. These label groupings don't have any order or hierarchy to them,nor do they convey any numerical value. E.g eye color, nationality.
+
+         Ordinal: It also categorizes variables into labeled groups and these categories have an order or hierarchy to them. E.g academic grades(A,B,C) and so on; Income (high,medium,low).
+         
+         Interval: It is a numerical scale which labels and orders variables, with a known, evenly spaced interval between each of the values. E.g temperature in degrees, IQ score.
+         
+         Ratio: Just like the interval scale, the ratio scale is a quantitative level of measurement with equals intervals between each point. What sets the ratio apart is that it has a true zero. That is, a value of zero is on a ratio scale means that the                variable you are measuring is absent. E.g weight in grams, speed in miles per hour.
+         
+ 
+Q7- How nominal data type is different from ordinal data type?
+Answer-- Following are the differences between nominal and ordinal data type:
+
+
+                      Nominal                                   |                             Ordinal
+                                                                |
+1) It categorizes variables according to qualitative labels.    | 1) It also categorizes varibales into labeled grous in an orderly
+                                                                |    manner.
+2) Nominal data analysis is done by grouping input variables    |
+   into categories and calculating the percentage or mmode of   | 2) Ordinal data is analyzed by computing the mode, median and other 
+   the distribution.                                            |    positional measures like quartiles, percentiles, etc.
+                                                                |
+3) It is categorical in nature.                                 | 3) It is in between categorical and quantitative.
+                                                                |
+4) It is used for research that involve getting personal data   | 4) It is mainly used to carry out investigations that involve geting
+   of a person, place or thing.                                 |    people's views or opinions on same matter.
+                                                                |
+5) E.g Gender, race, hair color etc.                            | 5) E.g having position in class as 'first' or 'second' etc.
+                                                                |
+                                                                
+                                                               
+Q8- Which type of plot can be used to display in terms of range?
+Answer-- Whiskers plot.
+
+
+Q9- Describe the difference between descriptive and inferential statistics. Give an example of each type of statistics and explain how they are used.
+Answer-- Following are the diferences between descriptive and inferential statistics:
+
+
+                   Descriptive                                  |                           Inferential
+                                                                |
+1) It gives infromation about raw data which describes the data | 1) It makes inferences about the population using data drawn from the
+    in some manner.                                             |    population.
+                                                                |
+2) It helps in organizing, analyzing and to present data in a   | 2) It allows us to compare data and make hypothesis and predictions.
+   meaningful manner.                                           |
+                                                                | 3) It is used to explain the chance of occurence of an event.
+3) It is used to describe a situation.                          |
+                                                                | 4) It can be achieved by probability.
+4) It can be achieved with the help of charts, graphs, tables   |
+   etc.                                                         | 5) It includes topics such as Z test, T test.
+                                                                |
+5) It includes topics such as measures of central tendency,     |
+   measures of dispersion, different types of distribution of   |
+   data.                                                        |
+   
+USAGE:
+Descriptive statistics involves taking a potentially sizeable number of data points in the sample data and reducing them to certain meaningful summary. The process allows you to obtain insights and visualize the data rather than simply pouring through setsbof raw numbers. with descriptive anlaysis, you can describe both an entire population and an individual sample.
+
+Inferential statistics involves drawing conclusions about popultions by examining samples. It allows us to make inferences about the entire set, including specific examples, within it, based on information obtained from a subset of examples. These inferences rely on the principles of evidence and utilize sample statistics as a basis for drawing broader conclusions.
+
+
+Q10- What are some common measures of central tendency and variability used in statistics? explain how each measure can be used to describe a dataset?
+Answer-- Central tendency: The tendency of quantitative data to cluster around some central value.
+
+Measures of central tendency-
+1) Mean: The sum of all measurements divided by the number of observations. It can be used with discrete and continuous data.
+
+2) Median: The middle value that separates the higher half from the lower half. The number are arranged in either ascending or descending order, the middle number is then taken.
+
+3) Mode: The most frequent value. It shows most popular opinion and is the highest bar is histogram.
+
+Variability(dispersion): Dispersion is contrasted with location or central tendency and together they are most used properties of distributions. It is the variability is spread in a variable or a probablity distribution. They tell us how much observation in a data set vary.
+
+Measures of Variability-
+1) Variance: A measure of how far a set of numbers are spread out from each other. It describes how far the numbers lie from the mean.
+
+2) Standard deviation: It is only used for data that are normally distributed. It indicates how much a set of value is spread around the average.
+
+3) Interquartile range: It is a measure of dispersion, being equal to the diference between the third and first quartiles.
+
+4) Range: It is the length of the smallest interval which contains all the data and is calculated by subtracting the smallest observation from the greatest and provides an indication of statistical dispersion.
